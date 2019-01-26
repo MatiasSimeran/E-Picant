@@ -7,8 +7,7 @@ body{
     height: auto;
   }
 
-  #lol-btn{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  .lol-btn{
+    position: center;
+    
   }

@@ -1,11 +1,12 @@
 body{
-    background-color: black;
+    background-color: #10171e !important;
 }
 
-h1 {
-    text-align: center;
-}
-
-.nota-1{
+.nota{
     margin-bottom: 5%;
+}
+
+.blog{
+    background-color: white;
+
 }
