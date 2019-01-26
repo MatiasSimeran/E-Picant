@@ -1,0 +1,14 @@
+body{
+  background-color: #10171e;
+}
+
+.carousel-item > img {
+    width: 100%;
+    height: auto;
+  }
+
+  #lol-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
