@@ -1,7 +1,11 @@
-body{
-
+.titulo-nota1 h2{ 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 2%;
 }
 
-.titulo-nota1 h1{
+.articulo-nota1 p {
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
