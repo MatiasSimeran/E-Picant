@@ -10,3 +10,14 @@ body{
     background-color: white;
 
 }
+
+.container img {
+    width: 100% !important;
+    height: auto;
+}
+
+.loltitle {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
