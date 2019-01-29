@@ -1,11 +1,20 @@
+body{
+    background-color: #10171e;
+}
+
 .titulo-nota1 h2{ 
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     text-decoration: underline;
     margin-top: 2%;
+    background-color: white !important;
 }
 
 .articulo-nota1 p {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+}
+
+.nota-general{
+    background-color: white;
 }

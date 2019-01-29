@@ -11,6 +11,7 @@ html,body{
 .footer,
 .push{
 	height: 20px;
+	background-color: white !important;
 }
 
 .footer-distributed{
