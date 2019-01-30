@@ -2,13 +2,13 @@ body{
     background-color: #10171e !important;
 }
 
+
 .nota{
-    margin-bottom: 5%;
+    margin-top: 5%;
 }
 
-.blog{
-    background-color: white;
-
+.card-body{
+    text-align: center;
 }
 
 .container img {
@@ -16,8 +16,16 @@ body{
     height: auto;
 }
 
-.loltitle {
+.lolbanner {
     width: 50%;
     margin-left: 25%;
     margin-top: 3%;
+}
+.title{
+    color: white;
+    font-size: 4em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
 }

@@ -2,6 +2,9 @@ body{
     background-color: #10171e;
 }
 
+article{
+    display: block;
+}
 .titulo-nota1 h2{ 
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
