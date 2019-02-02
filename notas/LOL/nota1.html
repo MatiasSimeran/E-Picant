@@ -13,6 +13,16 @@
     <link rel="icon" href="../../Imagenes/picante.png" type="image/x-icon" style="width:16px; height:16px;">
   </head>
 <body style="background-color: #10171e;">
+
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
     <main class="wraper">
                     <div class="container">
                           <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -26,10 +36,10 @@
                                           <a class="nav-link" href="../../index.html">Inicio</a>
                                       </li>
                                       <li class="nav-item active">
-                                          <a class="nav-link" href="../../LOL/index.html">League of Legends </a>
+                                          <a class="nav-link" href="../../LOL/">League of Legends </a>
                                       </li>
                                       <li class="nav-item">
-                                        <a class="nav-link" href="#">CS:GO</a>
+                                        <a class="nav-link" href="../../CSGO/">CS:GO</a>
                                       </li>
                                     </ul>
                                     <span class="navbar-text">
@@ -57,8 +67,13 @@
             </p>
             <p>This paragraph will include the photo of a random cat that the author of this tutorial has found online. You can replace this text with any random text. The sole purpose of this copy is to fill the space and make sure that the image to the left has enough text fo low around it.</p>
           </div>
+          <div class="container">
+            <div class="fb-comments" data-colorscheme="dark" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-numposts="5"></div>
+          </div>
         </article>
       </div>
+
+      
   
       </main>
             <div class="container">
